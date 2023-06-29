@@ -1,0 +1,5 @@
+
+<router-outlet>
+    <app-navbar (deleteUserDetails)="deleteUserDetails($event)"></app-navbar>
+    <app-side-nav *ngIf="showNavbar"> </app-side-nav>
+</router-outlet>

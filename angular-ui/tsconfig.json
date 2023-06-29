@@ -1,0 +1,24 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "baseUrl": "./",
+    "module": "esnext",
+    "outDir": "./dist/out-tsc",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es2015",
+    "types": ["jquery"] ,
+    "typeRoots": [
+      "node_modules/@types",
+      "node_modules@types/jquery"
+    ],
+    "lib": [
+      "es2017",
+      "dom"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+<div class="container">
+    <h2 class="text-center mt-4">Veterinarians</h2>
+    <div class="p-1 bg-light">
+      <div class="table-responsive">
+        <table class="table table-striped mt-4 w-200">
+          <thead>
+            <tr>
+              <th>First Name</th>
+              <th>Last Name</th>
+              <th>Specialization</th>
+              <th>Phone Number</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let veterinarian of veterinarians$ | async">
+              <td>{{ veterinarian.firstName }}</td>
+              <td>{{ veterinarian.lastName }}</td>
+              <td>{{ veterinarian.specialization }}</td>
+              <td>{{ veterinarian.phoneNumber }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="position-absolute top-0 start-0 mt-3 ml-3">
+      <button class="btn btn-primary" (click)="navigateToForm()">
+        <i class="material-icons">add</i> Add Veterinarian
+      </button>
+    </div>
+  </div>
+  
