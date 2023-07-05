@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a742bbd5-fb13-4811-bf4c-d42d9a1dd078" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bff-service-rest/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-ui/src/app/pages/vet/state/veterinarian.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-ui/src/app/pages/vet/state/veterinarian.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-ui/src/app/pages/vet/vet-form/vet-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-ui/src/app/pages/vet/vet-form/vet-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-ui/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-ui/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-ui/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/angular-ui/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bff-service-rest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bff-service-rest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bff-service-rest/src/main/java/com/mirko/masters/bffservicerest/BffServiceRestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/bff-service-rest/src/main/java/com/mirko/masters/bffservicerest/BffServiceRestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bff-service-rest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bff-service-rest/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/#ib_16384_0.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_redo/#ib_redo10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_redo/#ib_redo11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_redo/#ib_redo12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_redo/#ib_redo13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_redo/#ib_redo14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_redo/#ib_redo15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_redo/#ib_redo16_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_redo/#ib_redo9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_temp/temp_1.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_temp/temp_10.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_temp/temp_2.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_temp/temp_3.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_temp/temp_4.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_temp/temp_5.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_temp/temp_6.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_temp/temp_7.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_temp/temp_8.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/#innodb_temp/temp_9.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/binlog.000004" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/binlog.000004" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/binlog.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/ibtmp1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/appointment.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/appointment.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/customer.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/customer.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/invoice.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/invoice.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/medical_procedure.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/medical_procedure.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/medical_record.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/medical_record.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/medical_record_medical_procedures.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/medical_record_medical_procedures.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/medical_test.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/medical_test.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/medication.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/medication.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/payment.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/payment.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/pet.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/pet.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/veterinarian.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/veterinarian.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/masters_v1/visit.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/masters_v1/visit.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/data/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/data/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-utils/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-utils/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/target/test-classes/com/mirko/vet/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/bff-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <option name="groupModules" value="false" />
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bff-service" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Rm0y7mNzBpUCp9xFtPquf76B8l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "/Users/mirko/Documents/source/masters",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mirko.masters.bffservicerest.service.impl" />
+      <recent name="com.mirko.masters.bffservicerest.service" />
+      <recent name="com.mirko.masters.bffservicerest.controller" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mirko.masters.apigateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirko.masters.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BffServiceRestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mirko.masters.bffservicerest.BffServiceRestApplication" />
+      <module name="bff-service-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirko.masters.bffservicerest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceRegistryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mirko.masters.serviceregistry.ServiceRegistryApplication" />
+      <module name="service-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirko.masters.serviceregistry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BffServiceRestApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bff-service-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirko.masters.bffservicerest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mirko.masters.bffservicerest" />
+      <option name="MAIN_CLASS_NAME" value="com.mirko.masters.bffservicerest.BffServiceRestApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeterinarianServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bff-service-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirko.masters.bffservicerest.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mirko.masters.bffservicerest.service" />
+      <option name="MAIN_CLASS_NAME" value="com.mirko.masters.bffservicerest.service.VeterinarianServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.BffServiceRestApplication" />
+        <item itemvalue="Application.ServiceRegistryApplication" />
+        <item itemvalue="JUnit.VeterinarianServiceImplTest" />
+        <item itemvalue="JUnit.BffServiceRestApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a742bbd5-fb13-4811-bf4c-d42d9a1dd078" name="Changes" comment="" />
+      <created>1687840200383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687840200383</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { NgForm } from '@angular/forms';
 import { Router } from '@angular/router';
 import { ToastrService } from 'ngx-toastr';
-import { Veterinarian } from '../state/veterinarian.model';
+import { Veterinarian } from '../state/veterinarian.module';
 import { VeterinarianService } from '../state/veterinarian.service';
 
 @Component({
